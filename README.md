@@ -24,3 +24,9 @@ WhatIsMyBrowser.com list: [Crawler User Agents](https://developers.whatismybrows
 ### Also...
 - [BeautifulSoup (bs4) documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)
 - [Requests for Humans Documentation](https://docs.python-requests.org/en/latest/)
+- [Thanksgiving Books for Kids](https://parentingchaos.com/thanksgiving-books-for-kids/)
+- [10 Best Hanukkah Books for Kids](https://www.familyeducation.com/fun/hanukkah/10-best-hanukkah-books-kids)
+- [The 10 Best Kwanzaa Books for Kids](https://www.familyeducation.com/the-10-best-kwanzaa-books-for-kids)
+- [100 Christmas Books Every Child Should Read Before They Turn 10](https://theeducatorsspinonit.com/100-christmas-books-every-child-should/)
+    - This page actually has links for ~120 books
+- [Happy New Years Books for Kids](https://www.thebutterflyteacher.com/happy-new-years-books-for-kids/) 
